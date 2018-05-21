@@ -1,0 +1,61 @@
+{
+    "station":
+    [
+     {
+     "name": "California: KCRE Crescent City, CA (KIH37)",
+     "streamURL": "http://65.19.131.159/bicoastal-kcrefmaac-64",
+     "imageURL": "noaa.png",
+     "desc": "EAS Participant Station",
+     "longDesc": "COVERAGE IN CALIFORNIA: Del Norte County. - COVERAGE IN OREGON: Curry County. - EAS CRITERIA: TOR, SVR, FFW, TSW, and RMT."
+     },
+     {
+     "name": "California: KHSU Eureka, CA (KEC82)",
+     "streamURL": "http://peace.str3am.com:6650/live",
+     "imageURL": "noaa.png",
+     "desc": "NOAA Weather Radio",
+     "longDesc": "COVERAGE IN CALIFORNIA: Humboldt County. - EAS CRITERIA: TOR, SVR, FFW, TSW, and RMT."
+     },
+     {
+     "name": "California: KQPM Ukiah, CA (WNG720)",
+     "streamURL": "http://65.19.131.160/bicoastal-kqpmfmaac-64",
+     "imageURL": "noaa.png",
+     "desc": "NOAA Weather Radio",
+     "longDesc": "COVERAGE IN CALIFORNIA: Lake and Mendocino. - EAS CRITERIA: TSW and RMT."
+     },
+     {
+     "name": "California: KCBS (KHB49)",
+     "streamURL": "http://19273.live.streamtheworld.com:80/KCBSAMAAC_SC",
+     "imageURL": "noaa.png",
+     "desc": "NOAA Weather Radio",
+     "longDesc": "COVERAGE IN CALIFORNIA: Alameda, Contra Costa, Marin, Napa, San Francisco, San Mateo, Santa Clara, Solano, and Sonoma. - EAS CRITERIA: TOR, FFW, CAE, and RMT."
+     },
+     {
+     "name": "California: KGO (KHB49)",
+     "streamURL": "http://19793.live.streamtheworld.com:80/KGOAMAAC_SC",
+     "imageURL": "noaa.png",
+     "desc": "NOAA Weather Radio",
+     "longDesc": "COVERAGE IN CALIFORNIA: Alameda, Contra Costa, Marin, Napa, San Francisco, San Mateo, Santa Clara, Solano, and Sonoma. - EAS CRITERIA: TOR, FFW, CAE, and RMT."
+     },
+     {
+     "name": "California: KAZU Monterey, CA (KEC49)",
+     "streamURL": "http://icecast.csumb.edu:8000/live128",
+     "imageURL": "noaa.png",
+     "desc": "NOAA Weather Radio",
+     "longDesc": "COVERAGE IN CALIFORNIA: Alameda, Contra Costa, Monterey, Napa, San Benito, San Francisco, San Mateo, Santa Clara, Solano, and Sonoma. - EAS CRITERIA: TOR, FFW, CAE, and RMT."
+     },
+     {
+     "name": "California: KEC49",
+     "streamURL": "http://saratogawx.dyndns.org:88/broadwave.mp3",
+     "imageURL": "noaa.png",
+     "desc": "NOAA Weather Radio",
+     "longDesc": "COVERAGE IN CALIFORNIA: Alameda, Contra Costa, Monterey, Napa, San Benito, San Francisco, San Mateo, Santa Clara, Solano, and Sonoma. - EAS CRITERIA: TOR, TOA, SVR, SVA, FFW, CAE, and SMW."
+     },
+     {
+     "name": "California: WWF64",
+     "streamURL": "http://saratogawx.dyndns.org:8001/Saratoga-WWF64.mp3",
+     "imageURL": "noaa.png",
+     "desc": "NOAA Weather Radio",
+     "longDesc": "COVERAGE IN CALIFORNIA: Alameda, Contra Costa, Monterey, Napa, San Benito, San Francisco, San Mateo, Santa Clara, Solano, and Sonoma. - EAS CRITERIA: TOR, TOA, SVR, SVA, FFW, CAE, and SMW."
+     },
+     ]
+}

@@ -12,35 +12,35 @@
      "name": "California: KHSU Eureka, CA (KEC82)",
      "streamURL": "http://peace.str3am.com:6650/live",
      "imageURL": "noaa.png",
-     "desc": "NOAA Weather Radio",
+     "desc": "EAS Participant Station",
      "longDesc": "COVERAGE IN CALIFORNIA: Humboldt County. - EAS CRITERIA: TOR, SVR, FFW, TSW, and RMT."
      },
      {
      "name": "California: KQPM Ukiah, CA (WNG720)",
      "streamURL": "http://65.19.131.160/bicoastal-kqpmfmaac-64",
      "imageURL": "noaa.png",
-     "desc": "NOAA Weather Radio",
+     "desc": "EAS Participant Station",
      "longDesc": "COVERAGE IN CALIFORNIA: Lake and Mendocino. - EAS CRITERIA: TSW and RMT."
      },
      {
      "name": "California: KCBS (KHB49)",
      "streamURL": "http://19273.live.streamtheworld.com:80/KCBSAMAAC_SC",
      "imageURL": "noaa.png",
-     "desc": "NOAA Weather Radio",
+     "desc": "EAS Participant Station",
      "longDesc": "COVERAGE IN CALIFORNIA: Alameda, Contra Costa, Marin, Napa, San Francisco, San Mateo, Santa Clara, Solano, and Sonoma. - EAS CRITERIA: TOR, FFW, CAE, and RMT."
      },
      {
      "name": "California: KGO (KHB49)",
      "streamURL": "http://19793.live.streamtheworld.com:80/KGOAMAAC_SC",
      "imageURL": "noaa.png",
-     "desc": "NOAA Weather Radio",
+     "desc": "EAS Participant Station",
      "longDesc": "COVERAGE IN CALIFORNIA: Alameda, Contra Costa, Marin, Napa, San Francisco, San Mateo, Santa Clara, Solano, and Sonoma. - EAS CRITERIA: TOR, FFW, CAE, and RMT."
      },
      {
      "name": "California: KAZU Monterey, CA (KEC49)",
      "streamURL": "http://icecast.csumb.edu:8000/live128",
      "imageURL": "noaa.png",
-     "desc": "NOAA Weather Radio",
+     "desc": "EAS Participant Station",
      "longDesc": "COVERAGE IN CALIFORNIA: Alameda, Contra Costa, Monterey, Napa, San Benito, San Francisco, San Mateo, Santa Clara, Solano, and Sonoma. - EAS CRITERIA: TOR, FFW, CAE, and RMT."
      },
      {
@@ -57,5 +57,243 @@
      "desc": "NOAA Weather Radio",
      "longDesc": "COVERAGE IN CALIFORNIA: Alameda, Contra Costa, Monterey, Napa, San Benito, San Francisco, San Mateo, Santa Clara, Solano, and Sonoma. - EAS CRITERIA: TOR, TOA, SVR, SVA, FFW, CAE, and SMW."
      },
+     {
+     "name": "California: KXJZ Sacramento, CA (KEC57/WWF67)",
+     "streamURL": "http://13693.live.streamtheworld.com:3690/KXJZ_SC?",
+     "imageURL": "noaa.png",
+     "desc": "EAS Participant Station",
+     "longDesc": "COVERAGE IN CALIFORNIA: Amador, Butte, Calaveras, Colusa, El Dorado, Glenn, Nevada, Placer, Plumas, Sacramento, San Joaquin, Sierra, Sutter, Tehama, Tuolumne, Yolo, and Yuba. - EAS CRITERIA: TOR, SVR, and FFW."
+     },
+     {
+     "name": "California: KFBK Sacramento, CA (KEC57/WWF67)",
+     "streamURL": "https://c2icy.prod.playlists.ihrhls.com/217_icy",
+     "imageURL": "noaa.png",
+     "desc": "EAS Participant Station",
+     "longDesc": "COVERAGE IN CALIFORNIA: Amador, Butte, Calaveras, Colusa, El Dorado, Glenn, Nevada, Placer, Plumas, Sacramento, San Joaquin, Sierra, Sutter, Tehama, Tuolumne, Yolo, and Yuba. - EAS CRITERIA: TOR, SVR, FFW, CAE, and RMT."
+     },
+     {
+     "name": "California: KEC57 Sacramento, CA",
+     "streamURL": "http://wxradio.dyndns.org:8000/Sacramento-KEC57.mp3",
+     "imageURL": "noaa.png",
+     "desc": "NOAA Weather Radio",
+     "longDesc": "COVERAGE IN CALIFORNIA: Amador, Butte, Calaveras, Colusa, El Dorado, Placer, Sacramento, San Joaquin, Solano, Stanislaus, Sutter, Tuolumne, and Yolo. - EAS CRITERIA: TOR, TOA, SVR, SVA, FFW, and CAE."
+     },
+     {
+     "name": "California: KUBB Mariposa, CA (KIH62)",
+     "streamURL": "http://17803.live.streamtheworld.com/KUBBFMAAC_SC",
+     "imageURL": "noaa.png",
+     "desc": "EAS Participant Station",
+     "longDesc": "COVERAGE IN CALIFORNIA: Fresno, Kern, Kings, Madera, Mariposa, Merced, and Tulare. - EAS CRITERIA: TOR, SVR, FFW, and RMT."
+     },
+     {
+     "name": "California: KMYX Arvin, CA (WXL89)",
+     "streamURL": "http://ice7.securenetsystems.net/KMYX",
+     "imageURL": "noaa.png",
+     "desc": "EAS Participant Station",
+     "longDesc": "COVERAGE IN CALIFORNIA: Fresno, Kern, Kings, and Tulare. - EAS CRITERIA: TOR, SVR, and FFW."
+     },
+     {
+     "name": "California: KNRZ Bakersfield, CA (WXL89)",
+     "streamURL": "http://54.189.181.14/alphabakersfield-knzramaac-ibc1",
+     "imageURL": "noaa.png",
+     "desc": "EAS Participant Station",
+     "longDesc": "COVERAGE IN CALIFORNIA: Kern County. - EAS CRITERIA: TOR, FFW, CAE, and RMT."
+     },
+     {
+     "name": "California: KWO39 Los Angeles, CA",
+     "streamURL": "http://wxradio.dyndns.org:8000/wb6ypf/Altadena.mp3",
+     "imageURL": "noaa.png",
+     "desc": "NOAA Weather Radio",
+     "longDesc": "COVERAGE IN CALIFORNIA: Los Angeles and Ventura. - EAS CRITERIA: TOR, TOA, SVR, SVA, FFW, FLW (River), SMW, and CAE (1050Hz)."
+     },
+     {
+     "name": "California: KFI Los Angeles, CA (KWO37)",
+     "streamURL": "http://54.189.181.14/alphabakersfield-knzramaac-ibc1",
+     "imageURL": "noaa.png",
+     "desc": "EAS Participant Station",
+     "longDesc": "COVERAGE IN CALIFORNIA: Los Angeles and Ventura. - EAS CRITERIA: TOR, SVR, FFW, SMW, and RMT."
+     },
+     {
+     "name": "Utah: KSL Salt Lake City, UT (KEC78)",
+     "streamURL": "http://13743.live.streamtheworld.com/KSLAMAAC.aac",
+     "imageURL": "noaa.png",
+     "desc": "EAS Participant Station",
+     "longDesc": "COVERAGE IN UTAH: Box Elder, Davis, Salt Lake, Tooele, and Utah. - EAS CRITERIA: TOR, SVR, FFW, CAE, and RMT."
+     },
+     {
+     "name": "Utah: KEC78 Salt Lake City, UT",
+     "streamURL": "http://farmingtonweather.hopto.org:22333/kec78",
+     "imageURL": "noaa.png",
+     "desc": "NOAA Weather Radio",
+     "longDesc": "COVERAGE IN UTAH: Box Elder, Davis, Salt Lake, Tooele, and Utah. - EAS CRITERIA: TOR, TOA, SVR, SVA, and FFW."
+     },
+     {
+     "name": "Utah: KXBN Cedar City, UT (WXM24)",
+     "streamURL": "http://54.235.51.186/cherrycreek-kxbnfmaac-ibc4",
+     "imageURL": "noaa.png",
+     "desc": "EAS Participant Station",
+     "longDesc": "COVERAGE IN UTAH: Beaver, Iron, Juab, and Millard. - EAS CRITERIA: TOR, SVR, and FFW."
+     },
+     {
+     "name": "Utah: KDXU St. George, UT (WWF51)",
+     "streamURL": "http://54.235.51.186/cherrycreek-kxbnfmaac-ibc4",
+     "imageURL": "noaa.png",
+     "desc": "EAS Participant Station",
+     "longDesc": "COVERAGE IN UTAH: Iron and Washington. - COVERAGE IN NEVADA: Clark and Lincoln. - COVERAGE IN ARIZONA: Mohave. - EAS CRITERIA: TOR, SVR, and FFW."
+     },
+     {
+     "name": "Nevada: KDWN Las Vegas, NV (WXL36)",
+     "streamURL": "http://17943.live.streamtheworld.com:3690/KDWNAMAAC_SC",
+     "imageURL": "noaa.png",
+     "desc": "EAS Participant Station",
+     "longDesc": "COVERAGE IN NEVADA: Clark, Esmeralda, and Lincoln. - EAS CRITERIA: TOR, SVR, FFW, CAE, and RMT."
+     },
+     {
+     "name": "Arizona: KYRM Yuma, AZ (WXL87)",
+     "streamURL": "http://17943.live.streamtheworld.com:3690/KDWNAMAAC_SC",
+     "imageURL": "noaa.png",
+     "desc": "EAS Participant Station",
+     "longDesc": "COVERAGE IN ARIZONA: Imperial and Riverside. - EAS CRITERIA: TOR, SVR, FFW, DSW, CAE, and RMT."
+     },
+     {
+     "name": "Arizona: KYRM Yuma, AZ (WXL87)",
+     "streamURL": "http://50.22.253.46/kyrm-fm",
+     "imageURL": "noaa.png",
+     "desc": "EAS Participant Station",
+     "longDesc": "COVERAGE IN ARIZONA: Imperial and Riverside. - EAS CRITERIA: TOR, SVR, FFW, DSW, CAE, and RMT."
+     },
+     {
+     "name": "Arizona: KGPS Kingman, AZ (KXI83/KXI84/KQC45)",
+     "streamURL": "http://live.str3am.com:2330/xstream",
+     "imageURL": "noaa.png",
+     "desc": "EAS Participant Station",
+     "longDesc": "COVERAGE IN ARIZONA: La Paz and Mohave. - EAS CRITERIA: TOR, SVR, and FFW."
+     },
+     {
+     "name": "Arizona: KKLD Cottonwood, AZ (WWF98)",
+     "streamURL": "http://icy3.abacast.com:80/yavapai-kkldfmaac-64",
+     "imageURL": "noaa.png",
+     "desc": "EAS Participant Station",
+     "longDesc": "COVERAGE IN ARIZONA: Coconino, Gila, and Yavapai. - EAS CRITERIA: TOR, SVR, and FFW."
+     },
+     {
+     "name": "Arizona: KNAU Flagstaff, AZ (WXK76)",
+     "streamURL": "http://icy3.abacast.com:80/yavapai-kkldfmaac-64",
+     "imageURL": "noaa.png",
+     "desc": "EAS Participant Station",
+     "longDesc": "COVERAGE IN ARIZONA: Coconino and Navajo. - EAS CRITERIA: TOR, TOA, SVR, SVA, FFW, and DSW."
+     },
+     {
+     "name": "New Mexico: KANW Albuquerque, NM (WXJ34)",
+     "streamURL": "http://18543.live.streamtheworld.com:3690/KANWFM_SC",
+     "imageURL": "noaa.png",
+     "desc": "EAS Participant Station",
+     "longDesc": "COVERAGE IN NEW MEXICO: Bernalillo, Sandoval, and Valencia. - EAS CRITERIA: TOR, TOA, SVR, SVA, and FFW. - NOTE: Some alerts may be relayed twice from KKOB."
+     },
+     {
+     "name": "New Mexico: KIDX Ruidoso, NM (WXJ38)",
+     "streamURL": "http://ice2.securenetsystems.net:80/KIDX",
+     "imageURL": "noaa.png",
+     "desc": "EAS Participant Station",
+     "longDesc": "COVERAGE IN NEW MEXICO: Chaves, Lincoln, Otero, and Torrance. - EAS CRITERIA: TOR, SVR, and FFW."
+     },
+     {
+     "name": "New Mexico: KSEL Portales, NM (WXJ35)",
+     "streamURL": "http://ice6.securenetsystems.net:80/KSELFM",
+     "imageURL": "noaa.png",
+     "desc": "EAS Participant Station",
+     "longDesc": "COVERAGE IN NEW MEXICO: Curry, De Baca, Quay, and Roosevelt. - EAS CRITERIA: TOR, TOA, SVR, SVA, FFW, CAE, and RMT."
+     },
+     {
+     "name": "New Mexico: KENW Portales, NM (WXJ35)",
+     "streamURL": "http://ice10.securenetsystems.net/KENWFM",
+     "imageURL": "noaa.png",
+     "desc": "EAS Participant Station",
+     "longDesc": "COVERAGE IN NEW MEXICO: Curry, De Baca, Quay, and Roosevelt. - EAS CRITERIA: TOR, SVR, and FFW."
+     },
+     {
+     "name": "New Mexico: KSMX Clovis, NM (WXJ35)",
+     "streamURL": "http://ice5.securenetsystems.net/KSMX?",
+     "imageURL": "noaa.png",
+     "desc": "EAS Participant Station",
+     "longDesc": "COVERAGE IN NEW MEXICO: Curry, De Baca, Quay, and Roosevelt. - EAS CRITERIA: TOR, SVR, and FFW. - NOTE: Shares an encoder with KRMQ."
+     },
+     {
+     "name": "New Mexico: KRMQ Clovis, NM (WXJ35)",
+     "streamURL": "http://ice7.securenetsystems.net/KRMQFM?",
+     "imageURL": "noaa.png",
+     "desc": "EAS Participant Station",
+     "longDesc": "COVERAGE IN NEW MEXICO: Curry, De Baca, Quay, and Roosevelt. - EAS CRITERIA: TOR, SVR, and FFW. - NOTE: Shares an encoder with KSMX."
+     },
+     {
+     "name": "Colorado: KSTR Montrose, CO (KXI90)",
+     "streamURL": "http://playerservices.streamtheworld.com/api/livestream-redirect/KSTRFM.mp3?",
+     "imageURL": "noaa.png",
+     "desc": "EAS Participant Station",
+     "longDesc": "COVERAGE IN COLORADO: Delta, Gunnison, Montrose, and Ouray. - EAS CRITERIA: TOR, SVR, FFW, and CAE."
+     },
+     {
+     "name": "Colorado: WWG43 Glenwood Springs, CO",
+     "streamURL": "http://wxradio.dyndns.org:8000/GlenwoodSpringsCO/WWG43",
+     "imageURL": "noaa.png",
+     "desc": "NOAA Weather Radio",
+     "longDesc": "COVERAGE IN COLORADO: Eagle, Garfield, and Pitkin. - EAS CRITERIA: TOR, TOA, SVR, SVA, FFW, AVW (1050Hz)."
+     },
+     {
+     "name": "Colorado: KSPK Walsenburg, CO (WNG579)",
+     "streamURL": "http://stream.kspk.com:8000/live.mp3",
+     "imageURL": "noaa.png",
+     "desc": "EAS Participant Station",
+     "longDesc": "COVERAGE IN COLORADO: Custer, Huerfano, Las Animas, and Pueblo. - EAS CRITERIA: TOR, SVR, and FFW."
+     },
+     {
+     "name": "Colorado: KGFT Pueblo, CO (WXM52)",
+     "streamURL": "http://18613.live.streamtheworld.com/KGFTFMAAC.aac",
+     "imageURL": "noaa.png",
+     "desc": "EAS Participant Station",
+     "longDesc": "COVERAGE IN COLORADO: Custer, Fremont, Huerfano, and Pueblo. - EAS CRITERIA: TOR, SVR, and FFW."
+     },
+     {
+     "name": "Colorado: KIBT Fountain, CO (WXM56)",
+     "streamURL": "http://18613.live.streamtheworld.com/KGFTFMAAC.aac",
+     "imageURL": "noaa.png",
+     "desc": "EAS Participant Station",
+     "longDesc": "COVERAGE IN COLORADO: El Paso and Teller. - EAS CRITERIA: TOR, SVR, FFW, and CAE."
+     },
+     {
+     "name": "Colorado: KIBT Fountain, CO (WXM56)",
+     "streamURL": "http://c8icyelb.prod.playlists.ihrhls.com/353_icy",
+     "imageURL": "noaa.png",
+     "desc": "EAS Participant Station",
+     "longDesc": "COVERAGE IN COLORADO: El Paso and Teller. - EAS CRITERIA: TOR, SVR, FFW, and CAE."
+     },
+     {
+     "name": "Colorado: KVAY Lamar, CO (WXM56)",
+     "streamURL": "http://65.19.131.144/beacon-kvayfmaac-ibc4?",
+     "imageURL": "noaa.png",
+     "desc": "EAS Participant Station",
+     "longDesc": "COVERAGE IN COLORADO: Baca, Bent, Kiowa, and Prowers. - EAS CRITERIA: TOR, SVR, and FFW."
+     },
+     {
+     "name": "Colorado: KOA Parker, CO (KEC76)",
+     "streamURL": "https://c8.prod.playlists.ihrhls.com/389_icy",
+     "imageURL": "noaa.png",
+     "desc": "EAS Participant Station",
+     "longDesc": "COVERAGE IN COLORADO: Adams, Arapahoe, Boulder, Broomfield, Clear Creek, Denver, Douglas, Elbert, Gilpin, Jefferson, and Park. - EAS CRITERIA: TOR, FFW, RMT, and CAE."
+     },
+     {
+     "name": "Colorado: KUNC Greeley, CO (WXM50)",
+     "streamURL": "http://14523.live.streamtheworld.com:3690/KUNCFM_64_SC",
+     "imageURL": "noaa.png",
+     "desc": "EAS Participant Station",
+     "longDesc": "COVERAGE IN COLORADO: Larimer and Weld. - EAS CRITERIA: TOR, SVR, FFW, and CAE."
+     },
+     {
+     "name": "Colorado: KEC76 Denver, CO",
+     "streamURL": "http://wxradio.dyndns.org:8000/bwx",
+     "imageURL": "noaa.png",
+     "desc": "EAS Participant Station",
+     "longDesc": "COVERAGE IN COLORADO: Adams, Arapahoe, Boulder, Broomfield, Clear Creek, Denver, Douglas, Elbert, Gilpin, Jefferson, Larimer, Park, and Weld. - EAS CRITERIA: TOR, TOA, SVR, SVA, FFW, BZW, WSW, and HWW."
+     }
      ]
 }
